@@ -18,4 +18,12 @@ Pseudo-code ([wikipedia](https://en.wikipedia.org/wiki/Soundex), [stanford](http
 7. If there are not enough digits, pad it with 0 till the length is 4
 
 
-Note: Works with ASCII and English.
+**Note:** Works with ASCII and English.
+
+**Sample Output:**
+hello: H400
+hallow: H400
+test: T230
+smith: S530
+smythe: S530
+smote: S530
